@@ -9,7 +9,7 @@ This application alllows you to play your local songs. In this project, are used
 - Android Pallete library, to make a beautiful background in the music's screen
 - Media Controller, to control the musics in reprodution
 
-These Google services are also implemented:
+Those Google services are also implemented:
 
 - Firebase Message service, to show notifications to the user
 - Firebase Analytics, that allows the monitoring of the user's during the the application's use
