@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PlayerOne</string>
+    <string name="list">Lista</string>
+    <string name="music">Música</string>
+    <string name="favs">Favoritos</string>
+    <string name="playlist">Playlist</string>
+    <string name="art">Arte da capa do álbum</string>
+    <string name="artist">Artista</string>
+    <string name="music_name">Nome da musica</string>
+    <string name="unknown_artist">Artista Desconhecido</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="music_added">Música adicionada aos favoritos!</string>
+    <string name="app_name_splash">Nome do aplicativo</string>
+    <string name="no_song_selected">Nenhuma música selecionada</string>
+    <string name="select">Selecione uma música da lista</string>
+    <string name="my_musics">Minhas músicas</string>
+    <!--<string name="unknown"><unknown></string>-->
+</resources>

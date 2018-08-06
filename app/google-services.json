@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047911987155",
+    "firebase_url": "https://playerone-1865b.firebaseio.com",
+    "project_id": "playerone-1865b",
+    "storage_bucket": "playerone-1865b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047911987155:android:e4c2063c2704730a",
+        "android_client_info": {
+          "package_name": "com.example.letic.playerone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047911987155-me9nd7u3lipolk4dcbqo9uh2erk14l4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqr687qMXs0KZXSUvbnoZXqWoe8XfUr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
